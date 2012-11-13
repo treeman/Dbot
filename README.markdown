@@ -6,7 +6,7 @@ An irc bot in 294 chars written in Perl.
 Usage
 -----
 
-    perl Dbot
+`perl Dbot`
 
 Will connect to quakenet's irc servers and join the channel #Dbot. It will then respond to commands.
 
